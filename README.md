@@ -13,7 +13,7 @@ Ce projet est une application simple d'authentification sécurisée utilisant **
 
 ### 1. Cloner le projet
 ```
-git clone https://github.com/ton-repo/securite-captcha.git
+git clone https://github.com/aya-sahmi/securite-captcha.git
 cd securite-captcha
 ```
 
